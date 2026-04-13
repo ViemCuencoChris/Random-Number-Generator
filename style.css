@@ -39,6 +39,7 @@ body {
 .roll_container h2 {
     color: #ff4d4d;
     margin-top: 1rem;
+    font-size: clamp(1rem, 0.815rem + 0.821vw, 1.8rem);
 }
 
 .roll_container button {
